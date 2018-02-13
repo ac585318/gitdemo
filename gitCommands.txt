@@ -1,4 +1,8 @@
 git status
 git add *
-git commit
+
+git EDITOR=notepad
+git commit -m "Your message here"
+
 git push
+git pull
